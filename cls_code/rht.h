@@ -1,0 +1,3 @@
+byte RequestRHTADCData();
+byte RHTADCParse();
+
